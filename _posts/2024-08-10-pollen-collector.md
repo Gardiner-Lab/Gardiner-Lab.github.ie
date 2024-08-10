@@ -1,7 +1,7 @@
 ---
 title: 3d printable pollen collector
 author: Jason
-date: 2024-08-10 15:50:00 
+date: 2024-08-10 15:50:00 +0200
 categories: [3d-printable_labware]
 tags: [DIY_labware, 3d-print]
 ---
