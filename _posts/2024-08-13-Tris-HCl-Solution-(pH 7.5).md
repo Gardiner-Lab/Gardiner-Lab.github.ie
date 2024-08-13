@@ -2,8 +2,8 @@
 title: Tris-HCl Solution (pH 7.5) Protocol
 author: Jason
 date: 2024-08-13 16:50:00 +0200
-categories: [templates]
-tags: [template, solution]
+categories: [solution, Stock_Chemicals]
+tags: [solution, Stocks]
 ---
 ## Tris-HCl Solution (pH 7.5) Protocol
 
