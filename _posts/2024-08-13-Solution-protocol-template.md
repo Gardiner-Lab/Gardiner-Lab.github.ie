@@ -57,15 +57,15 @@ tags: [template, solution]
     * Add solvent to the volumetric flask until the meniscus reaches the desired volume mark.
 5. **Mixing:** Stopper the flask and invert it several times to ensure thorough mixing.
 
-**5. Verification:**
+5. Verification:**
 * If necessary, measure the pH, concentration, or other relevant properties of the solution using appropriate instruments. Record these values.
 
-**6. Storage:**
+6. Storage:**
 
 * Describe the storage conditions for the prepared solution (e.g., temperature, container type, light exposure).
 * Indicate the shelf life of the solution if known.
 
-**7. Disposal:**
+7. Disposal:**
 * Outline the proper disposal procedure for any leftover chemicals and the solution itself, following relevant safety regulations and guidelines.
 
 
